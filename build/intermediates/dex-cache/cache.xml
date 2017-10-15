@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_91e7b3773ecc137b267ae25a0387cf96f265ec35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_434f7f1354872cf5d352c23dc4ce52e8b2aca765/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_039c3267e403d10fa9bce4079ca14b433ab4b9d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_0e24822d80ddac9abf615ebb707a65dc5cf22add/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f785d7ee0cb4dc528c5e10e4f4ddf2464708b89e">
+        <dex dex="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_09b1acb60445b5e14b3d3240055c746fa3c3ca7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_32b0a42beb693143019f8fe2089aee330f9ebc65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_72b089193170cdf4224865d43118868e2498f526/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_b4910487b3131b1884e4bcc75ea06dbe1ec771e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_e1f4b8c027e5d1c0bcbd441fe5da70d644c2aa1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3347dda6ca3f4a68d9cdcfb7cb3514aa0f3061cd">
+        <dex dex="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_412a06cbf96e6ca797d37efa80e1d1ad0b4ef43d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_4bd24ecb1bf6a6e9ebdce2e872de1c8ee1e04daf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/neto/Documentos/open-sources/flappy-fire-bird/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_996c4f1f98a5cd3c041a9fa1f0c8d79dc991f285/classes.dex" />
+    </item>
+
+</items>
