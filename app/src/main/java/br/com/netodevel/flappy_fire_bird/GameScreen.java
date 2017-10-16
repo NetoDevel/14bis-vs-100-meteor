@@ -5,6 +5,7 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.util.Log;
+import android.view.MotionEvent;
 import android.view.View;
 
 
@@ -44,6 +45,20 @@ public class GameScreen extends View implements Runnable {
             this.background.update();
             this.fireBird.update();
         }
+    }
+
+
+    @Override
+    public boolean onTouchEvent(MotionEvent event) {
+        if (event.getAction() == MotionEvent.ACTION_UP) {
+            this.fireBird.setDirection(FireBird.MOVE_DOWN);
+            return true;
+        }
+        if (event.getAction() == MotionEvent.ACTION_DOWN) {
+            this.fireBird.setDirection(FireBird.MOVE_UP);
+            return true;
+        }
+        return false;
     }
 
     @Override
